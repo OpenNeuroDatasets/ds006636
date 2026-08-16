@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-READ2010_ses-T1_fmapid-auto00004_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-READ2010_ses-T1_fmapid-auto00004_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00004",
+  "IntendedFor": [
+    "ses-T1/func/sub-READ2010_ses-T1_task-VM_dir-PA_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/om2/scratch/tmp/rarielmarks/read_proc/sub-READ2010/data/sub-READ2010/ses-T1/fmap/sub-READ2010_ses-T1_acq-VM_dir-AP_epi.nii.gz",
+    "/om2/scratch/tmp/rarielmarks/read_proc/sub-READ2010/data/sub-READ2010/ses-T1/func/sub-READ2010_ses-T1_task-VM_dir-PA_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
