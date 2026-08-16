@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-READ3082_ses-T1_fmapid-auto00001_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-READ3082_ses-T1_fmapid-auto00001_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00001",
+  "IntendedFor": [
+    "ses-T1/func/sub-READ3082_ses-T1_task-AM_dir-PA_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/home/akaminsk/orcd/scratch/read_proc/sub-READ3082/data/sub-READ3082/ses-T1/fmap/sub-READ3082_ses-T1_acq-AM_dir-AP_epi.nii.gz",
+    "/home/akaminsk/orcd/scratch/read_proc/sub-READ3082/data/sub-READ3082/ses-T1/func/sub-READ3082_ses-T1_task-AM_dir-PA_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
